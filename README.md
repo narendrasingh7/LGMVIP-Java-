@@ -1,4 +1,3 @@
-# LGMVIP-Java 
 # Task 1 Currency Converter 
 # Created by- Narendra Singh © 2023
 # Under the guidance of Let's Grow More
