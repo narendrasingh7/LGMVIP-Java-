@@ -119,14 +119,17 @@ import java.awt.event.ActionListener;
                             case "USD-to-INR" : {
                             float y = (a*82);
                             textField_2.setText(y+" Rupee");
+                            break;
                         }
                             case "INR-to-Pound": {
                             float z = (a/101);
                             textField_2.setText(z+" Pounds");
+                            break;    
                         }
                             case "Pound-to-INR":{
                             float w = (a*101);
                             textField_2.setText(w+" Rupee");
+                             break;    
                         }
                     }
                     }
